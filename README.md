@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate and driven third-year Computer Science Engineering undergraduate with a strong foundation in programming, web development, and machine learning. I thrive in challenging environments and excel in projects that merge technical expertise with creativity, such as developing a brain tumor detection web app and a fashion recommendation system. My leadership roles as a football tournament organizer, school Head Boy, and sports captain reflect my ability to manage teams and events effectively. With a solid grasp of Angular, Python, and backend development, I am eager to contribute to innovative projects and grow professionally in dynamic settings.
+I am a passionate and driven final year Computer Science Engineering undergraduate with a strong foundation in programming, web development, and machine learning. I thrive in challenging environments and excel in projects that merge technical expertise with creativity, such as developing a brain tumor detection web app and a fashion recommendation system. My leadership roles as a football tournament organizer, school Head Boy, and sports captain reflect my ability to manage teams and events effectively. With a solid grasp of Angular, Python, and backend development, I am eager to contribute to innovative projects and grow professionally in dynamic settings.
 
 
 ## 🌐 Socials:
